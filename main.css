@@ -1,16 +1,42 @@
 body{
-margin :0;
-   background-color: #C8C8C8;
+   margin : 0;
+}
+
+.nav-bar{
+    text-align: right;
+    margin-right: 135px;
+    margin-top : 20px;
+}
+
+.top-bar >.nav-bar > a{
+    padding-left: 15px;
+    font-size: 25px;
+    text-decoration: none;
+    color : black;
 }
 
 
 .part-name{
     text-align: center;
-    margin-top : 13em;
+    margin-top : 8.7em;
 }
 
 h1{
-    font-size:  100px;;
-    
+    font-size:  100px;
+}
+
+h2{
+    font-size : 35px;
+}
+
+.job {
+    text-align: center;
+}
+
+.container{
+    margin : 0px;
+    padding-top : 40px;
+    padding-bottom: 280px;
+    background-color: #c8c8c8;
 }
 
